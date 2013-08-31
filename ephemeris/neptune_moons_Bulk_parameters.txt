@@ -1,0 +1,40 @@
+neptune_moons_Bulk_parameters
+
+                              Mass          Radius       Mean density    Visual geometric albedo
+                           (1020 kg)         (km)          (kg/m3)
+  Naiad (NIII)                0.002      48 x 30 x 26                            0.07
+  Thalassa (NIV)              0.004      54 x 50 x 26                            0.09
+  Despina (NV)                0.02       90 x 74 x 64                            0.09
+  Galatea (NVI)               0.04      102 x 92 x 72                            0.08
+  Larissa (NVII)              0.05     108 x 102 x 84                            0.09
+  S/2004 N1                                   18               
+  Proteus (NVIII)             0.5      220 x 208 x 202                           0.10
+  Triton (NI)               214.           1,353.4          2,050                0.76
+  Nereid (NII)                0.3            170                                 0.16
+  Halimede (NIX, S/2002 N1)   0.001           30                                 0.16
+  Sao (NXI, S/2002 N2)        0.001           20                                 0.16
+  Laomedeia (NXII, S/2002 N3) 0.001           20                                 0.16
+  Neso (NXIII, S/2002 N4)                     30                                                      
+  Psamathe (NX, S/2003 N1     0.0002          20                                 0.16                       
+Orbital parameters
+
+                                                                Orbital   Rotation 
+                                      Semimajor axis            Period*    Period   Inclination  Eccentricity
+                                 (103 km)  (Neptunian Radii)    (days)     (days)    (degrees)
+  Naiad (NIII)                    48.227        1.948          0.294396                4.74        0.0003
+  Thalassa (NIV)                  50.075        2.022          0.311485                0.21        0.0002
+  Despina (NV)                    52.526        2.121          0.334655                0.07        0.0001
+  Galatea (NVI)                   61.953        2.502          0.428745                0.05        0.0001
+  Larissa (NVII)                  73.548        2.970          0.554654                0.20        0.0014
+  S/2004 N1                      105.300        4.252          0.950                   0.00        0.0000
+  Proteus (NVIII)                117.647        4.751          1.122315                0.04        0.0004
+  Triton (NI)                    354.76        14.328          5.876854R     S       157.345       0.000016
+  Nereid (NII)                 5,513.4        222.67         360.13619                 7.23        0.7512
+
+  Halimede (NIX, S/2002 N1)    15730.         635.2         1879.7R                  134.1         0.571     
+  Sao (NXI, S/2002 N2)         22420.         905.3         2914.1                    48.5         0.293  
+  Laomedeia (NXII, S/2002 N3)  23570.         951.8         3167.9                    34.7         0.424                    
+  Psamathe (NX, S/2003 N1      46700.        1885.8         9115.9R                  137.4         0.450
+  Neso (NXIII, S/2002 N4)      48390.        1954.0         9374.0R                  132.6         0.495        
+*R indicates retrograde motion
+S indicates synchronous rotation - the rotation period is the same as the orbital period
